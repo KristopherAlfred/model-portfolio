@@ -1,0 +1,1 @@
+# This file contains documentation or notes related to the assets folder, which is typically used for static files like images and fonts.

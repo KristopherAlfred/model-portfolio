@@ -1,0 +1,20 @@
+/* Styles for the AppComponent */
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+    color: #34495e;
+    text-align: center;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ecf0f1;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
